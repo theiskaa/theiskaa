@@ -1,7 +1,7 @@
 # Hi there I'm Ismael 👋
 
 I'm a Mobile Application developer at [**Lomsa**](https://lomsa.com) <br/>
-Focused on Dart/Flutter.<br/> 
+Focused on Dart-Flutter.<br/> 
 Contact me with: ***🇬🇧English,*** ***🇬🇪Georgian,*** ***🇦🇿Azerbaijani*** and ***🇹🇷Turkish.*** <br/>
 
 <!--
