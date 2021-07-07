@@ -1,7 +1,4 @@
-### Hi there I'm Ismael 👋
-
 Software engineer at [**Lomsa**](https://lomsa.com) <br/>
-Design and Programming enthusiasts. <br/>
 Contact me in ***English,*** ***Georgian,*** ***Azerbaijani,*** and ***Turkish.*** <br/>
 Me on **[StackOverflow](https://stackoverflow.com/users/14247462/theiskaa?tab=profile)** and **[Linkedin](https://www.linkedin.com/in/ismael-shakverdiev-4b6355202/)**.
 
